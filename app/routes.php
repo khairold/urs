@@ -24,3 +24,4 @@ Route::get('my', function() {
 Route::get('testrender', 'DocumentController@renderSingle');
 
 Route::get('t1', 'DocumentController@t1');
+//
