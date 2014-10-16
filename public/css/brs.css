@@ -1,0 +1,91 @@
+blockquote {
+    color: #999999;
+    font-size: 14px;
+}
+
+.masthead {
+    color: #cdbfe3;
+    background-color: #6f5499;
+    height: 240px;
+}
+
+.masthead h1 {
+    color: #ffffff;
+}
+
+.table {
+    width: auto;
+}
+
+.brs-sidebar {
+    padding: 20px 0px 0px 0px;
+}
+
+.form-subtitle {
+    color:#666666;
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom-color: #cccccc;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    margin-bottom: 22px;
+}
+
+.brs-sidebar ul.nav{
+    
+
+}
+
+.brs-sidebar ul.nav li a{
+
+    
+}
+
+.brs-sidebar ul.nav li:first-child{
+   
+}
+
+.brs-sidebar ul.nav li {
+    padding: 0px 0px 0px 40px;
+}
+
+.brs-sidebar ul.nav li a {
+    padding: 4px 0px 4px 20px;
+}
+
+.brs-sidebar ul.nav li a {
+    color:#999999;
+}
+
+.brs-sidebar ul.nav li a:hover {
+    background-color: transparent;
+    color: #563d7c;
+    
+    border-color: #563d7c;
+    border-width:1px;
+    padding: 4px 0px 4px 19px;
+    border-left-style: solid;
+}
+
+.brs-sidebar ul.nav li.active a{
+    color: #563d7c;
+    font-weight: bold;
+    
+    border-color: #563d7c;
+    border-width:2px;
+    padding: 4px 0px 4px 18px;
+    border-left-style: solid;
+}
+
+.brs-sidebar ul.nav li:first-child a{
+
+}
+
+.brs-sidebar ul.nav li:last-child a{
+
+}
+
+.brs-sidebar ul.sidemenu{
+    top: 50px; /* Set the top position of pinned element */
+    font-size: 14px;
+}

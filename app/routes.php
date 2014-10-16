@@ -11,7 +11,16 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('hello');
+Route::get('/', function() {
+    return View::make('hello');
 });
+
+
+Route::get('my', function() {
+    return 'my';
+
+});
+
+Route::get('testrender', 'DocumentController@renderSingle');
+
+Route::get('t1', 'DocumentController@t1');
